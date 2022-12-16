@@ -4,4 +4,4 @@
 ✉ Telegram: [@zihelyu](https://t.me/zihelyu) | Twitter: [@zihelyu](https://twitter.com/zihelyu)<br/>
 💰 Donate me: [@zihelyu](https://afdian.net/@zihelyu)
 
-<img src="https://github-readme-stats.vercel.app/api?username=zihelyu&include_all_commits=true&count_private=false">
+<img src="https://github-readme-stats.vercel.app/api?username=zihelyu&theme=graywhite&include_all_commits=true&count_private=false">
